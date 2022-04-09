@@ -1,0 +1,11 @@
+---
+title: "Template"
+output: html_document
+date: '2022-04-09'
+---
+
+
+```{r}
+plot(mtcars$mpg)
+```
+
